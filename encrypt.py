@@ -4,8 +4,8 @@
 https://app.hackthebox.eu/challenges/Emdee-five-for-life
 """
 import sys
-
 import hashlib
+
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
